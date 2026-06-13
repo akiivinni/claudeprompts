@@ -1,0 +1,158 @@
+Act as a senior technical recruiter and hiring manager.
+
+Review my resume for:
+1. ATS compatibility
+2. Technical skills alignment
+3. Missing keywords
+4. Weak bullet points
+5. Grammar and formatting issues
+6. Quantifiable achievements
+7. Overall market competitiveness
+
+Provide:
+- Resume score out of 100
+- Top 10 improvements
+- ATS optimization suggestions
+- Rewritten bullet points where needed
+- Skills I should highlight more
+
+Target role: [Job Title]
+Experience level: [Years]
+Location: [Country/City]
+
+Resume:
+[Paste Resume]
+
+Act as my personal job search assistant.
+
+Based on my resume:
+1. Identify suitable job roles.
+2. Search for matching jobs.
+3. Rank them from best to worst fit.
+4. Include:
+   - Job title
+   - Company
+   - Match score
+   - Required skills
+   - Missing skills
+   - Application link
+5. Prioritize remote and hybrid roles.
+
+Resume:
+[Paste Resume]
+
+Linkedin 
+
+Act as a LinkedIn career coach.
+
+Using my resume:
+- Rewrite my headline
+- Rewrite About section
+- Optimize experience descriptions
+- Suggest skills to add
+- Suggest keywords recruiters search for
+- Suggest content topics to post
+
+Resume:
+[Paste Resume]
+
+
+Frontend resume
+
+Act as a fresher Frontend Engineering Manager hiring freshers.
+
+Review my resume for Frontend Developer roles and share me the jobs for fresher 2025 25 passedouts
+
+Evaluate:
+- HTML, CSS, JavaScript skills presentation
+- React/Angular/Vue projects
+- Git and GitHub usage
+- Responsive design experience
+- API integration projects
+- ATS compatibility
+- Portfolio quality
+- Resume formatting
+
+Provide:
+1. ATS score out of 100
+2. Technical score out of 100
+3. Recruiter score out of 100
+4. Top 10 improvements
+5. Missing frontend keywords
+6. Rewritten project descriptions
+7. Chances of getting interview calls
+
+Resume:
+[Paste Resume]
+
+Find jobs based on my resume 
+
+
+https://jobs.pitchnhire.com/resources/front-end-developer-jobs-for-freshers
+
+
+
+me naukri ---> about skills resume presentation ----> claude ---> it will 
+
+projects 
+
+
+
+linkedin 
+
+indeed 
+glassdoor 
+ambition box 
+cutshort 
+angeslist 
+
+
+
+
+Act as a technical recruiter.
+
+Analyze my resume and recommend entry-level frontend jobs.
+
+For each role provide:
+- Match percentage
+- Required skills
+- Skills I already have
+- Skills I need to learn
+- Suitable job title
+
+Recommend:
+- Frontend Developer
+- Junior Frontend Developer
+- React Developer
+- Angular Developer
+- UI Developer
+- Web Developer
+
+Resume:
+[Paste Resume]
+
+
+Job search assistant
+
+
+Act as a technical recruiter.
+
+Analyze my resume and recommend entry-level frontend jobs.
+
+For each role provide:
+- Match percentage
+- Required skills
+- Skills I already have
+- Skills I need to learn
+- Suitable job title
+
+Recommend:
+- Frontend Developer
+- Junior Frontend Developer
+- React Developer
+- Angular Developer
+- UI Developer
+- Web Developer
+
+Resume:
+[Paste Resume]
